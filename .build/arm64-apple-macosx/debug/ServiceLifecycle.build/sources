@@ -1,0 +1,8 @@
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncCancelOnGracefulShutdownSequence.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncGracefulShutdownSequence.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/CancellationWaiter.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/GracefulShutdown.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/Service.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroup.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroupConfiguration.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceRunnerError.swift

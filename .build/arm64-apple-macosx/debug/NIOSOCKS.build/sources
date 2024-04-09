@@ -1,0 +1,12 @@
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSClientHandler.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSServerHandshakeHandler.swift'
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/AuthenticationMethod.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/ClientGreeting.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Errors.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Helpers.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Messages.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSRequest.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSResponse.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SelectedAuthenticationMethod.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ClientStateMachine.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ServerStateMachine.swift

@@ -1,0 +1,4 @@
+module PostgresKit {
+    header "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresKit-Swift.h"
+    requires objc
+}

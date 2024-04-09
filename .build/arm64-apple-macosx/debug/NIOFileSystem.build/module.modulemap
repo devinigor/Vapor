@@ -1,0 +1,4 @@
+module NIOFileSystem {
+    header "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/NIOFileSystem.build/NIOFileSystem-Swift.h"
+    requires objc
+}

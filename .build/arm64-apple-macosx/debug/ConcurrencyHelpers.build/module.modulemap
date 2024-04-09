@@ -1,0 +1,4 @@
+module ConcurrencyHelpers {
+    header "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/ConcurrencyHelpers-Swift.h"
+    requires objc
+}

@@ -1,0 +1,85 @@
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_AncestorHashSlots.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_Bitmap.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_Bucket.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_Hash.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashLevel.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Builder.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Debugging.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Initializers.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Invariants.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Lookups.swift
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Primitive Insertions.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Primitive Removals.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Primitive Replacement.swift'
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Storage.swift
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural compactMapValues.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural filter.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural intersection.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural isDisjoint.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural isEqualSet.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural isSubset.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural mapValues.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural merge.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural subtracting.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural symmetricDifference.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural union.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Subtree Insertions.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Subtree Modify.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Subtree Removals.swift'
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+UnsafeHandle.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNodeHeader.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashSlot.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashStack.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashTreeIterator.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashTreeStatistics.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_RawHashNode+UnsafeHandle.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_RawHashNode.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_UnmanagedHashNode.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_UnsafePath.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Codable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Collection.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+CustomReflectable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Debugging.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Descriptions.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Equatable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+ExpressibleByDictionaryLiteral.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Filter.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Hashable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Initializers.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Keys.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+MapValues.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Merge.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Sendable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Sequence.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Values.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Codable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Collection.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+CustomReflectable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Debugging.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Descriptions.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Equatable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+ExpressibleByArrayLiteral.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Extras.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Filter.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Hashable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Sendable.swift
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Sequence.swift
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra Initializers.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra basics.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra formIntersection.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra formSymmetricDifference.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra formUnion.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra intersection.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isDisjoint.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isEqualSet.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isStrictSubset.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isStrictSuperset.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isSubset.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isSuperset.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra subtract.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra subtracting.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra symmetricDifference.swift'
+'/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra union.swift'
+/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet.swift

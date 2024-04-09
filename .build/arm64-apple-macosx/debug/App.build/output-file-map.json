@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/Controllers/TodoController.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/TodoController.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/TodoController.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/TodoController~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/TodoController.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/Migrations/CreateTodo.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/CreateTodo.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/CreateTodo.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/CreateTodo~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/CreateTodo.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/Model/HotelQuery.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/HotelQuery.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/HotelQuery.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/HotelQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/HotelQuery.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/Model/Movie.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Movie.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Movie.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Movie~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Movie.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/Models/Todo.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Todo.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Todo.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Todo~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Todo.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/Modelss/Movies.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Movies.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Movies.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Movies~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/Movies.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/configure.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/entrypoint.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/entrypoint.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/entrypoint.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/entrypoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/entrypoint.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Sources/App/routes.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module NIOFileSystemFoundationCompat {
+    header "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/NIOFileSystemFoundationCompat-Swift.h"
+    requires objc
+}

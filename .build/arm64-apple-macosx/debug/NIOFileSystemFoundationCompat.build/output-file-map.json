@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio/Sources/NIOFileSystemFoundationCompat/Date+FileInfo.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/Date+FileInfo.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/Date+FileInfo.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/Date+FileInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/NIOFileSystemFoundationCompat.build/Date+FileInfo.swiftdeps"
+  }
+}

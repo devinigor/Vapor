@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/AppTests.build/master.swiftdeps"
+  },
+  "/Users/igordevin/Desktop/MovieServer/MovieServer/Tests/AppTests/AppTests.swift": {
+    "dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.d",
+    "object": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.swift.o",
+    "swiftmodule": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/AppTests.build/AppTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.swiftdeps"
+  }
+}

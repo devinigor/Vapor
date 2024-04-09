@@ -1,0 +1,4 @@
+module RoutingKit {
+    header "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/RoutingKit.build/RoutingKit-Swift.h"
+    requires objc
+}

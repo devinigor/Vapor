@@ -1,0 +1,4 @@
+module Algorithms {
+    header "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/arm64-apple-macosx/debug/Algorithms.build/Algorithms-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module CNIOBoringSSL {
+    umbrella header "/Users/igordevin/Desktop/MovieServer/MovieServer/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL.h"
+    export *
+}
